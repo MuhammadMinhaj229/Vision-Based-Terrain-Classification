@@ -5,9 +5,9 @@
 A deep learning based computer vision project that classifies terrain types from images.  
 This system analyses visual patterns of ground surfaces and predicts terrain categories, which can be useful for robotics, autonomous navigation, environmental analysis, and intelligent vision systems.
 
-## 🔗 Live Demo
+## Live Demo
 
-👉 **[Launch Terrain Classification Dashboard](https://vision-based-terrain-classification-bfzfgwhcu8npbf6lyipfyh.streamlit.app/)**
+ **[Launch Terrain Classification Dashboard](https://vision-based-terrain-classification-bfzfgwhcu8npbf6lyipfyh.streamlit.app/)**
 
 ---
 
@@ -36,16 +36,16 @@ Key objectives:
 
 ## Project Structure
 Vision-Based-Terrain-Classification/
-│
-├── app/
-│   └── streamlit_app.py # Interactive web UI dashboard
-├── Main.py # Main execution script
-├── run.bat # Quick run file (Windows)
-├── requirements.txt # Project dependencies
-├── users_db.json # Local database (ignored in repo)
-├── model/ # Model files (ignored if large)
-├── .venv/ # Virtual environment (ignored)
-└── README.md
+
+ app/
+    streamlit_app.py # Interactive web UI dashboard
+ Main.py # Main execution script
+ run.bat # Quick run file (Windows)
+ requirements.txt # Project dependencies
+ users_db.json # Local database (ignored in repo)
+ model/ # Model files (ignored if large)
+ .venv/ # Virtual environment (ignored)
+ README.md
 
 
 ---
