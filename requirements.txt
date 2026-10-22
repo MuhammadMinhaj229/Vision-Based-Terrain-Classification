@@ -5,7 +5,7 @@ scikit-learn
 xgboost
 streamlit
 plotly
-tinydb
-joblib
-seaborn
-matplotlib
+fastapi
+uvicorn
+pydantic
+pytest
